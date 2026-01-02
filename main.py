@@ -198,12 +198,12 @@ forms = [
     {
         "title": "Form Daily SO",
         "desc": "Form ini digunakan untuk mencatat jumlah stok fisik aktual di outlet pada hari berjalan",
-        "link": "https://ajp0nod3vmbt.jp.larksuite.com/base/XQFMbTuwPa03rMsCxAljSCBep0P"
+        "link": "https://ajp0nod3vmbt.jp.larksuite.com/share/base/form/shrjpUZoi1hjQ1yhBwl6uAifyAn"
     },
     {
         "title": "Absensi Crew",
         "desc": "Form absensi crew outlet (bersifat wajib) untuk mencatat kehadiran crew di outlet",
-        "link": "https://ajp0nod3vmbt.jp.larksuite.com/base/F8fcbvH5laRyjXsyCIzjSsMtpEc"
+        "link": "https://ajp0nod3vmbt.jp.larksuite.com/share/base/form/shrjpSN7FKBHSmH2inHXOwHaHEe"
     }
 ]
 
