@@ -145,7 +145,7 @@ dashboards = [
         "link": "https://lookerstudio.google.com/reporting/261bcaba-fe01-4c49-9b3e-bc72bf7dbee1/page/JMfjF"
     },
     {
-        "title": "Tactical for SPV (Salary Cost & Over Crew)",
+        "title": "Tactical for SPV",
         "desc": "Monitoring COGM/S, movement stok, salary cost dan potensi over crew untuk pengambilan keputusan taktis di level SPV",
         "link": "https://lookerstudio.google.com/reporting/1ebc1632-bce6-4aed-8568-e5b371230d67/page/p_7ygpse5oyd"
     },
