@@ -141,7 +141,7 @@ st.markdown(
 dashboards = [
     {
         "title": "Weekly Report - SPV Performance",
-        "desc": "Merekap performa mingguan SPV secara termasuk pencapaian operasional secara menyeluruh",
+        "desc": "Merekap performa mingguan SPV termasuk pencapaian operasional secara menyeluruh",
         "link": "https://lookerstudio.google.com/reporting/261bcaba-fe01-4c49-9b3e-bc72bf7dbee1/page/JMfjF"
     },
     {
