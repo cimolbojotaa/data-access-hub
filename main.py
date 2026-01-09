@@ -141,17 +141,17 @@ st.markdown(
 dashboards = [
     {
         "title": "Weekly Report - SPV Performance",
-        "desc": "Merekap performa SPV secara mingguan termasuk pencapaian operasional secara menyeluruh",
+        "desc": "Merekap performa mingguan SPV secara termasuk pencapaian operasional secara menyeluruh",
         "link": "https://lookerstudio.google.com/reporting/261bcaba-fe01-4c49-9b3e-bc72bf7dbee1/page/JMfjF"
     },
     {
         "title": "Tactical for SPV (Salary Cost & Over Crew)",
-        "desc": "Monitoring salary cost dan potensi over crew untuk pengambilan keputusan taktis di level SPV",
+        "desc": "Monitoring COGM/S, movement stok, salary cost dan potensi over crew untuk pengambilan keputusan taktis di level SPV",
         "link": "https://lookerstudio.google.com/reporting/1ebc1632-bce6-4aed-8568-e5b371230d67/page/p_7ygpse5oyd"
     },
     {
         "title": "Operational Cost (COGS & COGM)",
-        "desc": "Ringkasan biaya operasional meliputi COGS, pergerakan barang dan COGM",
+        "desc": "Ringkasan biaya operasional meliputi COGM/S, profitabilitas, productivitas manpower outlet",
         "link": "https://lookerstudio.google.com/reporting/1ef69901-4be4-43c8-a525-2939d660ec51/page/p_l6drp93lxd"
     },
     {
