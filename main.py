@@ -151,7 +151,7 @@ dashboards = [
     },
     {
         "title": "Operational Cost (COGS & COGM)",
-        "desc": "Ringkasan biaya operasional meliputi COGM/S, profitabilitas, productivitas manpower outlet",
+        "desc": "Ringkasan biaya operasional meliputi COGM/S, profitabilitas, produktivitas manpower di level outlet",
         "link": "https://lookerstudio.google.com/reporting/1ef69901-4be4-43c8-a525-2939d660ec51/page/p_l6drp93lxd"
     },
     {
