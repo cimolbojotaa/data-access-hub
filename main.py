@@ -5,7 +5,7 @@ import os
 # PAGE CONFIG
 st.set_page_config(
     page_title="Data Access Hub",
-    page_icon="🔎",
+    page_icon="📂",
     layout="wide"
 )
 
