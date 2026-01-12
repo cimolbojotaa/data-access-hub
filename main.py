@@ -174,7 +174,7 @@ forms = [
 
     ("Form Checklist Visit",
      "Checklist kondisi outlet saat visit sesuai Standar Operasional",
-     "https://bit.ly/checklist-visit"),
+     "https://ajp0nod3vmbt.jp.larksuite.com/share/base/form/shrjpbU0BNIgf90d0huOyM0pm7f"),
 
     ("Form Daily SO",
      "Pencatatan stok fisik aktual outlet harian",
@@ -227,7 +227,7 @@ for i, b in enumerate(bases):
                 <div class="dashboard-title">%s</div>
                 <div class="dashboard-desc">%s</div>
                 <a href="%s" target="_blank">
-                    <button class="dashboard-btn">Buka Base</button>
+                    <button class="dashboard-btn">Masuk ke Base</button>
                 </a>
             </div>
             """ % b,
