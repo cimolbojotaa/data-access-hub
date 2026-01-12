@@ -5,7 +5,7 @@ import os
 # PAGE CONFIG
 st.set_page_config(
     page_title="Data Access Hub",
-    page_icon="📂",
+    page_icon="🔎",
     layout="wide"
 )
 
@@ -170,7 +170,7 @@ st.markdown(
 forms = [
     ("Form Checkin Visit",
      "Form wajib untuk track kehadiran dan waktu awal visit outlet",
-     "https://bit.ly/checkin-visit"),
+     "https://ajp0nod3vmbt.jp.larksuite.com/share/base/form/shrjp02svHWWRHHRLTxS8RMyllh"),
 
     ("Form Checklist Visit",
      "Checklist kondisi outlet saat visit sesuai Standar Operasional",
